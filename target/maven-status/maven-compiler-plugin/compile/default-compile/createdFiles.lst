@@ -1,0 +1,9 @@
+desserts\GenericDAO.class
+desserts\DrinkDAOImpl.class
+main\App.class
+desserts\DrinkDAO.class
+widgetstore\web\LoggingFilter.class
+widgetstore\web\DrinkDetailsServlet.class
+web\NeedPermissionFilter.class
+desserts\DrinkDTO.class
+web\LoginServlet.class
